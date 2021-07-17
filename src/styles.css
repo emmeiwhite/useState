@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+}
+
+main {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 5px;
+  margin-top: 2rem;
+}
+
+.mainContent {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  background: #333;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+button {
+  cursor: pointer;
+}
